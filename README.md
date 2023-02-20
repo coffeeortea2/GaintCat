@@ -1,5 +1,4 @@
-# GaintCat
-## JAVA Web 課程結訓專案
+## GaintCat - JAVA Web 課程結訓專案
 #### 開發環境與版本
 * JAVA 版本：JSE 17
 * MySQL 版本：8.0.31
